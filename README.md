@@ -40,8 +40,9 @@ Visual Studio Code: This trusted code editor played a pivotal role in the develo
 
 ## How to run: 🏃‍♂️🏃‍♀️
 * IMPORTANT!
-  - XAMPP is needed to run
-  - Save file to C:\xampp\htdocs
+  - XAMPP is needed to run download it first
+  - Then download the "ecommerce.website.zip" file in this repository
+  - Extract the zip file to C:\xampp\htdocs. Make sure it keeps "ecommerce.website" as the folder that contains all the php files and such.
   - The Admin user already exists as seen in the "admin" table in the database. In order to log in through the admin section the site uses a separate web interface for admin handling. Login credentials are as follows
       - username: Admin1
       - password: Pass1
