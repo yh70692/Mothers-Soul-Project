@@ -38,7 +38,7 @@ Visual Studio Code: This trusted code editor played a pivotal role in the develo
 #### Project Goals and Current Status:
 *While my aspirations for this project were vast, time constraints limited the scope of its development. As a result, there are known bugs and areas that require improvement. However, I am actively working on addressing these issues during my free time.*
 
-#### How to run: 🏃‍♂️🏃‍♀️
+## How to run: 🏃‍♂️🏃‍♀️
 * IMPORTANT!
   - XAMPP is needed to run
   - Save file to C:\xampp\htdocs
