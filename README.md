@@ -2,6 +2,11 @@
 
 #### Role: Project Manager 👨‍💼 | Researcher 📊 | Developer 💻| Designer 🎨
 
+<h3 align="center"> Project Demo </h3>
+<p align="center">
+  <img src= "https://github.com/yh70692/yh70692/blob/6001aa2e4057a745adafa2d402c04d0ba50ffbca/Mothers.Soul.Ecommerce.Demo.gif">
+</p>
+
 #### Description:
 
 The primary aim of this endeavor was to not only showcase technical prowess but also to craft a distinctive brand identity. Drawing inspiration from the world of casual dining, I meticulously incorporated recognizable UI/UX design elements and curated a captivating color palette. The result is a visually appealing virtual dining experience.
